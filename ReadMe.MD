@@ -40,5 +40,5 @@ Follow these steps to get your project up and running:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/task-tracker.git
-   cd task-tracker
+   git clone https://github.com/Unis434/EmployeeBook.git
+   cd EmployeeBook
